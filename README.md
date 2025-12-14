@@ -35,3 +35,7 @@ pip install torch==2.0.1 torchvision torchaudio --index-url https://download.pyt
 pip install transformers peft accelerate bitsandbytes datasets scipy einops evaluate trl rouge_score pandas numpy huggingface_hub
 4. Authenticate with Hugging Face
 Train in Background 
+
+
+Citation:Medium:Suman Das
+Fine Tune Large Language Model (LLM) on a Custom Dataset with QLoRA
